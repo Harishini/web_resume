@@ -9,8 +9,6 @@ p{
 }
 body{
   background: #ffffff;
-  /* padding-left:30px;
-  padding-right: 80px; */
   padding-top: 30px;
   padding-bottom: 30px;
   margin-block-start: auto;
@@ -33,10 +31,6 @@ nav * {
     display: inline;
     
 }
-
-/* nav ul{
-  float:left;
-} */
 
 nav li {
     margin: 20px;
@@ -92,13 +86,6 @@ nav a.split {
   column-gap: 5px;
 }
 
-
-/* .about.container {
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
-   } */
    
 img {
      max-width: 200px;
@@ -107,7 +94,6 @@ img {
      float: left;
    }
    
-
   .row {
     display: flex;
   }
@@ -120,8 +106,9 @@ img {
   .logo img{
     width:200%;
     border: none;
-    margin-top: 100px;
-    padding-left:100px;
+    /* margin-top: 100px; */
+    padding-left:150px;
+    padding-top: 0px;
    
   }
   .column.details{
@@ -144,8 +131,6 @@ img {
   column-width: 50px;
 }
 
-
-
 .edu_title{
   font-weight: 900;
 }
@@ -155,9 +140,7 @@ img {
 /* Skills */
 
 .skills{
-    margin: auto;
-    
-    
+    margin: auto;    
 }
 
 .skills h2{
@@ -178,13 +161,6 @@ img {
   font-size:23px;
   font-weight: bold;
 }
-
-
-/* .skills p{
-  font-weight: 2rem;
-  font-size: medium;
-
-} */
 
 .area-title {
   font-weight:900;
@@ -293,6 +269,7 @@ img {
 
 
 
+/* Declaration */
 
 .declaration img{
   border: none;
