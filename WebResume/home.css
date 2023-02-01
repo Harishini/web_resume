@@ -1,6 +1,6 @@
 h2{
   text-align: center;
-  color:rgb(92, 195, 206);
+  color:rgb(163, 126, 5);
 }
 
 p{
@@ -91,6 +91,8 @@ nav a.split {
 .about.row{
   column-gap: 5px;
 }
+
+
 /* .about.container {
     display: grid;
     align-items: center; 
@@ -142,6 +144,8 @@ img {
   column-width: 50px;
 }
 
+
+
 .edu_title{
   font-weight: 900;
 }
@@ -170,7 +174,7 @@ img {
 .areas li{
   font-size:18px;
 }
-.areas p{
+.areas dt{
   font-size:23px;
   font-weight: bold;
 }
