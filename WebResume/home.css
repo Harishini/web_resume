@@ -107,7 +107,7 @@ img {
     width:200%;
     border: none;
     /* margin-top: 100px; */
-    padding-left:150px;
+    padding-left:30px;
     padding-top: 0px;
    
   }
@@ -146,12 +146,14 @@ img {
 .skills h2{
     text-align: center;
 }
-.skills ul{
+/* .skills ul{
   padding-left:50px;
-}
+} */
 
 .areas{
+  
   padding-left: 640px;
+ 
 }
 
 .areas li{
@@ -207,10 +209,18 @@ img {
     text-align:center
 }
 
+.project a{
+  font-size: 1rem;
+}
+
 .row{
   padding-left:100px;
+ 
+  
 
 }
+
+
 .title{
   font-size: 20px;
   font-weight: bold;
@@ -264,7 +274,8 @@ img {
 
 .personal p{
   font-size: 20px;
-  padding-left: 500px;
+  padding-left: 600px;
+  
 }
 
 
